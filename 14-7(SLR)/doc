@@ -1,0 +1,22 @@
+  
+
+https://colab.research.google.com/drive/1dGQTApMS2Q-NyFSfpGf5dMy6nMTQ0QeA?usp=sharing
+ 
+ 
+
+Using XL Miner ToolPak:
+
+Coefficients	Standard Error	t Stat	P-value
+15.73042161	36.48324843	0.431168339	0.669329551
+1.338866654	0.071663149	18.68277728	1.98937E-18
+
+Range of b0 and b1 with 95% confidence
+0	31.46084
+0	2.677733
+
+
+High linear relationship
+
+R Square	0.918430963
+
+Since the observation of 2mil for daily circulation is unprecedented in the training data henceforth the prediction upon it will be unreliable as the linear relationship is bound to a very precise area 
